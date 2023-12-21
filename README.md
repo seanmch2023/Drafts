@@ -1,9 +1,3 @@
-<a href=["Cadenza First Place Performance](https://github.com/seanmch2023/Images/blob/main/VID-20231221-WA0008.mp4)
-" target="_blank"><img src="https://github.com/seanmch2023/Images/blob/main/1703159124687.jpg" 
-alt="Piano Performance" width="350" height="200" border="10" /></a>
-
-https://github.com/seanmch2023/Images/blob/main/VID-20231221-WA0008.mp4
-
 🎹 <h1> 🎵 _Sean McHugh's Piano School of Music_ 🎵 </h1>
 <h2> $\textcolor{yellow}{\textsf{Home}}$ </h2>
 
@@ -47,16 +41,24 @@ Welcome to my Website!!! Maybe you want to learn piano?? Maybe you want to retur
 <details> 
      <table>
    <tr>
-    <th> <pre>My name is Seán McHugh and I am in fourth year. I started playing piano
-      at the age of 6. Having completed my grades to grade 8, I am now working towards
-      my senior certificate. It was my older siblings who inspired me to start playing
-      piano, as I enjoyed listening to their pieces, and watching them play. I 
-      accompany my school in their musical performances. I participated in my school's
-      annual music competition, 'Cadenza', and achieved first place.  
+    <th> 
+      <div align="left"> <img src="https://github.com/seanmch2023/Images/blob/main/1703159124687.jpg" 
+alt="Cadenza First Place Performance" width="350" height="200" border="10" /></a> <br>
+        
+  [Cadenza First Place Performance](https://github.com/seanmch2023/Images/blob/main/VID-20231221-WA0008.mp4)
+
 
 </pre>
 </th>
-    <th><img src="https://github.com/seanmch2023/Images/blob/main/pianopng" data-canonical-src="https://github.com/seanmch2023/Images/blob/main/pianopng" width="250" height="300"></th>
+    <th> <pre>My name is Seán McHugh and I am in fourth year. I started
+      playing piano at the age of 6. Having completed my grades to grade 8,
+      I am now working towards my senior certificate. It was my older siblings
+      who inspired me to start playing piano, as I enjoyed listening to their
+      pieces, and watching them play. I accompany my school in their musical
+      performances. I participated in my school's annual music competition,
+      'Cadenza', and achieved first place.  
+
+</pre></th>
   </tr>
 </table>
   <summary> <h2>$\textcolor{lightgreen}{\textsf{Biography}}$ </h2>
