@@ -1,4 +1,6 @@
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+<a href="
+" target="_blank"><img src="" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 🎹 <h1> 🎵 _Sean McHugh's Piano School of Music_ 🎵 </h1>
 <h2> $\textcolor{yellow}{\textsf{Home}}$ </h2>
