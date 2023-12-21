@@ -1,5 +1,5 @@
 <a href="https://github.com/seanmch2023/Images/blob/main/VID-20231221-WA0008.mp4
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+" target="_blank"><img src="" 
 alt="Piano Performance" width="240" height="180" border="10" /></a>
 
 https://github.com/seanmch2023/Images/blob/main/VID-20231221-WA0008.mp4
