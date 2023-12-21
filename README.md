@@ -1,6 +1,8 @@
-<a href="
-" target="_blank"><img src="" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<a href="https://github.com/seanmch2023/Images/blob/main/VID-20231221-WA0008.mp4
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="Piano Performance" width="240" height="180" border="10" /></a>
+
+https://github.com/seanmch2023/Images/blob/main/VID-20231221-WA0008.mp4
 
 🎹 <h1> 🎵 _Sean McHugh's Piano School of Music_ 🎵 </h1>
 <h2> $\textcolor{yellow}{\textsf{Home}}$ </h2>
