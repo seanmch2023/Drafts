@@ -1,6 +1,6 @@
-<a href="https://github.com/seanmch2023/Images/blob/main/VID-20231221-WA0008.mp4
-" target="_blank"><img src="" 
-alt="Piano Performance" width="240" height="180" border="10" /></a>
+<a href=["Cadenza First Place Performance](https://github.com/seanmch2023/Images/blob/main/VID-20231221-WA0008.mp4)
+" target="_blank"><img src="https://github.com/seanmch2023/Images/blob/main/1703159124687.jpg" 
+alt="Piano Performance" width="350" height="200" border="10" /></a>
 
 https://github.com/seanmch2023/Images/blob/main/VID-20231221-WA0008.mp4
 
